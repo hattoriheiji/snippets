@@ -21,8 +21,8 @@ var Snippet = {
   init: function(){
     this.storeData();
     this.bind();
-    this.duoshuo();
-    this.tongji();
+    //this.duoshuo();
+    //this.tongji();
   },
   storeData: function(){
     var store = {};
